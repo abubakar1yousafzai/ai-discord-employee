@@ -1,4 +1,4 @@
-# ClawAgent — AI Employee for OpenClaw Dev Lab
+# 🤖 ClawAgent — AI Employee for OpenClaw Dev Lab
 
 ## Overview
 
